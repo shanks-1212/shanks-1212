@@ -5,7 +5,7 @@ I enjoy working on projects that involve building efficient algorithms, system d
 
  
 
-## 🔧 Technologies & Tools:
+## Technologies & Tools:
 - **Programming Languages:** C++, Python, Verilog, VHDL, HTML, CSS, JavaScript, SQL
 - **Frameworks & Libraries:** React, Node.js, Express
 - **Tools & Platforms:** Git, GitHub, Docker, FPGA Development (Xilinx, Vivado), MATLAB, Simulink
@@ -15,7 +15,7 @@ I enjoy working on projects that involve building efficient algorithms, system d
  
  
 
-Feel free to explore my repositories and connect with me for collaboration opportunities or just to chat about tech! 😄
+
 
 <!---
 shanks-1212/shanks-1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
