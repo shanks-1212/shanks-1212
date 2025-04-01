@@ -8,9 +8,8 @@ I enjoy working on projects that involve building efficient algorithms, system d
 ## Technologies & Tools:
 - **Programming Languages:** C++, Python, Verilog, VHDL, HTML, CSS, JavaScript, SQL
 - **Frameworks & Libraries:** React, Node.js, Express
-- **Tools & Platforms:** Git, GitHub,FPGA Development (Xilinx, Vivado), MATLAB, Simulink
-- **Embedded Systems:** Arduino, Raspberry Pi, ESP32
-- **Digital Signal Processing (DSP)**: MATLAB, Python (SciPy, NumPy)
+- **Tools & Platforms:** Git, GitHub,FPGA Development (Xilinx, Vivado),
+
 
  
  
